@@ -1,4 +1,5 @@
 import { Header } from "./components/Header"
+// allways import componet on react 
 import { MainArticle } from "./components/MainArticle"
 
 function App() {
